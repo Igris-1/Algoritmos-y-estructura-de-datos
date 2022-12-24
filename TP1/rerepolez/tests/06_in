@@ -1,0 +1,20 @@
+ingresar 11234595
+votar Presidente 1
+votar Gobernador 2
+deshacer
+deshacer
+fin-votar
+deshacer
+ingresar 11234595
+deshacer
+ingresar 18137912
+ingresar 11234595
+votar Gobernador 1
+votar Presidente 0
+votar Presidente 1
+deshacer
+deshacer
+votar Presidente 1
+votar Intendente 3
+fin-votar
+votar Gobernador 2

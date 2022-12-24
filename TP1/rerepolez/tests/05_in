@@ -1,0 +1,29 @@
+ingresar 1234567
+ingresar 16677876
+votar Presidente 1
+ingresar 11234595
+votar Gobernador 0
+votar Gobernador 2
+fin-votar
+votar Gobernador 1
+fin-votar
+fin-votar
+ingresar 18137912
+ingresar 76567790
+ingresar 16677876
+votar Intendente 2
+votar Intendente 1
+votar Gobernador 3
+fin-votar
+votar Presidente 2
+votar Gobernador 2
+votar Intendente 2
+fin-votar
+votar Presidente 0
+fin-votar
+votar Presidente 1
+ingresar 8760975
+votar Presidente 1
+votar Gobernador 2
+votar Intendente 3
+fin-votar

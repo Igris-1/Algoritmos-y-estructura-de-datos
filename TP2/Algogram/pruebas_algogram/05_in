@@ -1,0 +1,38 @@
+login alan
+publicar C
+publicar Go
+publicar Python
+likear_post 2
+logout
+login dieguitoessaya
+likear_post 0
+likear_post 0
+logout
+login rosita
+likear_post 0
+likear_post 2
+logout
+login barbara
+publicar Scala
+publicar Kotlin
+likear_post 3
+logout
+login grace
+mostrar_likes 0
+likear_post 0
+likear_post 2
+likear_post 3
+likear_post 1
+logout
+login go
+likear_post 1
+logout
+login alan
+mostrar_likes 0
+logout
+mostrar_likes 0
+mostrar_likes 2
+mostrar_likes 1
+mostrar_likes 4
+mostrar_likes 3
+mostrar_likes 5

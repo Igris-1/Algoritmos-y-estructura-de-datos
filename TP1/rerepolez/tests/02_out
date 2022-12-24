@@ -1,0 +1,27 @@
+OK
+OK
+ERROR: DNI fuera del padrón
+OK
+ERROR: DNI incorrecto
+ERROR: DNI incorrecto
+ERROR: DNI incorrecto
+ERROR: DNI fuera del padrón
+ERROR: DNI incorrecto
+OK
+ERROR: Ciudadanos sin terminar de votar
+Presidente:
+Votos en Blanco: 0 votos
+p1 - a: 0 votos
+p2 - d: 0 votos
+
+Gobernador:
+Votos en Blanco: 0 votos
+p1 - b: 0 votos
+p2 - e: 0 votos
+
+Intendente:
+Votos en Blanco: 0 votos
+p1 - c: 0 votos
+p2 - f: 0 votos
+
+Votos Impugnados: 0 votos
