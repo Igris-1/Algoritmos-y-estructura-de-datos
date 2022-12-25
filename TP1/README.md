@@ -1,0 +1,2 @@
+# TP1: Introducción a Diseño de una Solución y Manejo de archivos en GO
+- Enunciado y explicaciones sobre el tp en la [página de la cátedra](https://algoritmos-rw.github.io/algo2/tps/2022_2/tp1/)
