@@ -1,14 +1,22 @@
 # Algoritmos y programación II - cátedra Buchwald (75.41)
 
 - Los lenguajes utilizados fueron GO y Python
-- La cursada consta de un total de 11 entregas obligatorias, 8 de las cuales no se incluyen en este repositorio
+- La cursada consta de un total de 11 entregas obligatorias que se listan debajo
 
 ## Entregas 2022C2
+- [TP0]()
+- [Administración de Memoria]()
+- [Pila]()
+- [Cola]()
+- [Lista]()
 - [TP1](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/TP1)
+- [Hash]()
+- [ABB]()
+- [Heap]()
 - [TP2](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/TP2)
 - [TP3](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/TP3)
 
-### Para correr las entregas, estando dentro del modulo del programa
+### Para correr TP1, 2 y 3, estando dentro del modulo del programa
 
 - TP1
 ```
