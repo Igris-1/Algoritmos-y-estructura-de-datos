@@ -4,15 +4,15 @@
 - La cursada consta de un total de 11 entregas obligatorias que se listan debajo
 
 ## Entregas 2022C2
-- [TP0]()
+- [TP0](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/TP0)
 - [Administración de Memoria]()
-- [Pila]()
-- [Cola]()
-- [Lista]()
+- [Pila](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/pila)
+- [Cola](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/cola)
+- [Lista](lista)
 - [TP1](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/TP1)
-- [Hash]()
-- [ABB]()
-- [Heap]()
+- [Hash](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/hash)
+- [ABB](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/abb)
+- [Heap](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/heap)
 - [TP2](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/TP2)
 - [TP3](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/TP3)
 
@@ -38,4 +38,10 @@ $ ./vamosmoshi ciudades.pj
 > Correr pruebas TP1 - TP2
 ```
 $ ./pruebas.sh PATH-A-EJECUTABLE-TP1-TP2
+```
+
+### Test Hash y ABB
+- Para ejecutar las pruebas, incluyendo las pruebas de volumen (benchmarks, que toman los tiempos y consumos de memoria), ejecutar:
+```
+$ go test -bench=. -benchmem
 ```
