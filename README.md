@@ -2,7 +2,7 @@
 
 - Los lenguajes utilizados fueron GO y Python
 - La cursada consta de un total de 11 entregas obligatorias que se listan debajo
-> Si estas cursando la materia en esta cátedra por primera vez y aun no entraste en crisis un sabado 4am por una entrega que no pasa las pruebas, recomiendo fuertemente seguir intentando que lo vas a resolver, siempre podes preguntarle a tu ayudante o en el channel general de slack
+> Si estas cursando la materia en esta cátedra por primera vez y aun no entraste en crisis un sabado 4am por una entrega que no pasa el corrector automatico, recomiendo fuertemente seguir intentando que lo vas a resolver, siempre podes preguntarle a tu ayudante o en el channel general de slack
 
 ## Entregas 2022C2
 - [TP0](https://github.com/Igris-1/Algoritmos-y-programacion-II/tree/main/TP0)
