@@ -1,4 +1,4 @@
-# Algoritmos y programación II - cátedra Buchwald (75.41)
+# Algoritmos y Estructura de Datos - cátedra Buchwald (75.41)
 
 - Los lenguajes utilizados fueron GO y Python
 - La cursada consta de un total de 11 entregas obligatorias que se listan debajo
