@@ -1,0 +1,59 @@
+- Algoritmos de ordenamiento
+
+- MergeSort:
+	-Sin condiciones sobre los datos
+	-Average: O(n*log(n))
+	-Best-Case: O(n*log(n))
+	-Worst-Case: O(n*log(n))
+	-Estable: yes
+	-In-Place: no
+
+- QuickSort:
+	-Sin condiciones sobre los datos
+	-Average: O(n*log(n))
+	-Best-Case: O(n*log(n))
+	-Worst-Case: O(n²)
+	-Estable: no
+	-In-Place: yes
+
+- Seleccion:
+	-Sin condiciones sobre los datos
+	-Average: O(n²)
+	-Estable: yes
+	-In-Place: yes
+
+- CountingSort:
+	-Condiciones sobre los datos:
+		.tengo que poder enumerar los datos
+		.rango acotado de elementos
+	-Average: O(n + k)
+		| Siendo n la cantidad de elementos y k el rango acotado de elementos
+	-Estable: yes
+	-In-Place: no
+
+- BucketSort:
+	-Condiciones sobre los datos:
+		.distribucion conocida de los datos
+		.capacidad de distribuir en buckets de similar cantidad de elementos
+	-Average: O(n*log(n/b))
+		| Siendo n la cantidad de elementos y b la cantidad de buckets
+	-Estable: depende
+	-In-Place: no
+
+- RadixSort:
+	-Condiciones sobre los datos:
+		.los elementos tienen varias cifras, o similar
+		.cada cifra se puede ordenar auxiliarmente, de forma lineal para hacer RadixSort linealmente
+	-Average: O(d*(algoritmo aux interno))
+		| Siendo d la cantidad de pasadas del radix y "algo aux interno" el algoritmo auxiliar que se usa para ordenar cada pasada
+	-Estable: yes
+	-In-Place: depende
+
+- HeapSort:
+	-Sin condicion sobre los datos
+	-Average: O(n*log(n))
+	-Estable: no
+	-In-Place: no
+
+
+
